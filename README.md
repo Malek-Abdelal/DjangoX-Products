@@ -8,6 +8,8 @@
 
 Write in the terminal => **python manage.py runserver**
 
+---------
+
 > A batteries-included Django starter project. To learn more try the books [Django for Beginners](https://djangoforbeginners.com), [Django for APIs](https://djangoforapis.com), and [Django for Professionals](https://djangoforprofessionals.com).
 
 
