@@ -1,0 +1,19 @@
+.update-delete-btn{
+    background-color: rgb(215, 149, 48);
+    border-radius: 4px;
+    padding: 5px;
+    color: white;
+}
+
+.update-delete-btn:hover{
+    color: white;
+    background-color: rgb(43, 40, 40);
+}
+
+a{
+    text-decoration: none;
+}
+
+.details-lable{
+    color: rgb(215, 149, 48);
+}
